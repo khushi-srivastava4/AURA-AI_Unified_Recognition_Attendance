@@ -1,0 +1,32 @@
+streamlit #frontend library
+
+
+#Utilities
+numpy #using numpy arrays is faster,gives more operation than python standard list
+pandas #for tabular operations
+
+scikit-learn #gives a structure SPM for classification and regression , FACE recognition
+dlib-bin # face recognition
+
+git+https://github.com/ageitgey/face_recognition_models
+setuptools<81  #helping to install the above model, above than version 70
+
+supabase #database provide for free
+bcrypt #hashing passwords
+
+segno #for creating QR code
+pillow #image preProcessing , many operations for image
+
+
+
+librosa
+resemblyzer
+
+
+fastapi
+uvicorn
+pydantic-settings
+python-jose[cryptography]
+pytest
+httpx
+
