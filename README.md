@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/aura_logo.png" alt="AURA logo" width="140">
-</p>
+
 
 <h1 align="center">AURA: AI Unified Recognition Attendance</h1>
 
@@ -65,24 +63,6 @@ Both modalities follow the same idea: convert a face or a voice into a fixed-len
 |---|---|
 | Live application | https://aura-main.streamlit.app/ |
 | Landing page | https://aura-landing-page-opal.vercel.app/ |
-
-### Teacher journey
-
-| Login | Dashboard | Create a course |
-|---|---|---|
-| <img src="docs/screenshots/aura-teacher-flow-1-login.png" width="260"> | <img src="docs/screenshots/aura-teacher-flow-2-dashboard.png" width="260"> | <img src="docs/screenshots/aura-teacher-flow-3-create-course.png" width="260"> |
-
-| Face attendance | Voice attendance | Stored records |
-|---|---|---|
-| <img src="docs/screenshots/aura-teacher-flow-5.2-photo-attendance.png" width="260"> | <img src="docs/screenshots/aura-teacher-flow-5.1-voice-attendance.png" width="260"> | <img src="docs/screenshots/aura-teacher-flow-5-see-stored-records.png" width="260"> |
-
-### Student journey
-
-| Login | Enroll in a subject | Dashboard |
-|---|---|---|
-| <img src="docs/screenshots/aura-student-flow-1-login.png" width="260"> | <img src="docs/screenshots/aura-student-flow-2-enroll.png" width="260"> | <img src="docs/screenshots/aura-student-flow-3-dashboard.png" width="260"> |
-
-> Save the screenshots into `docs/screenshots/` with these file names so the images render on GitHub.
 
 ## Features
 
@@ -485,6 +465,6 @@ Face and voice embeddings are biometric data. Use AURA only with the informed co
 
 ## Author
 
-Built by **[Your Name](https://github.com/ishara16)**.
+Built by **Khushi Srivastava**.
 
 If you find this project useful, consider giving it a star.
