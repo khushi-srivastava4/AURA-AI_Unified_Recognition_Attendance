@@ -19,7 +19,8 @@
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/aura-landing.png" alt="AURA landing page" width="85%">
+  <img width="950" height="434" alt="image" src="https://github.com/user-attachments/assets/e9374b30-14a9-4c98-8f64-6d03f5862a82" />
+
 </p>
 
 ---
