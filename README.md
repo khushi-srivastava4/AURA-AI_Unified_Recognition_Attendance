@@ -324,8 +324,8 @@ erDiagram
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/ishara16/aura-ai-unified-recognition-attendance.git
-cd aura-ai-unified-recognition-attendance
+git clone https://github.com/khushi-srivastava4/AURA-AI_Unified_Recognition_Attendance.git
+cd AURA-AI_Unified_Recognition_Attendance
 
 python -m venv venv
 source venv/bin/activate          # Windows: venv\Scripts\activate
